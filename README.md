@@ -1,4 +1,4 @@
-# Simple-AI-Agent-workflow
+# Simple-AI-Agent-with workflow
 
 # Ai Agents (ReAct, tool use, planning)-
                                     AI Agents are advanced systems that use Large Language Models to think, decide, and take actions. They follow methods like ReAct, which combines reasoning and actions step-by-step. They also use tools such as search, APIs, or calculators to get real data. With planning, agents break a big task into smaller steps and complete them automatically, helping users solve complex problems efficiently.
